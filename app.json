@@ -19,8 +19,13 @@
     "ios": {
       "supportsTablet": true
     },
+    "ios": {
+      "bundleIdentifier": "com.tmt.paytabssdk",
+      "buildNumber": "1.0.0"
+    },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
